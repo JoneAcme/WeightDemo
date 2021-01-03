@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeaderRefreshForRecyclerView</string>
+    <string name="header">我是头部</string>
+    <string name="normal">我是正常的item</string>
+    <string name="pullRefresh">下拉刷新</string>
+
+
+    <string name="stream_aggregation_load_all">暂时没有更多了</string>
+    <string name="story_cha_net_error">网络不可用，请检查网络设置</string>
+
+</resources>
